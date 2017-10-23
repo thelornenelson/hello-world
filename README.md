@@ -1,3 +1,6 @@
+Now adding from Google Cloud computing. I used git fetch to get the latest status of the remote repository and
+then git pull to update the local to match. Now editing this and I'll commit and push back to remote.
+
 Well not sure what happened there... apparently I just erased the entire fire. Whoops. Note sure how to
 revert to a previous commit.
 
