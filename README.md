@@ -20,3 +20,4 @@ Let's see how much I remember.
 
 Aha, apparently git rm not only removed the local file, but erased it from the whole repository. Good to know!
 
+Adding a new line! 2017-11-22
