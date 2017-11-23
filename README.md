@@ -1,3 +1,5 @@
+Testing to figure out git diff
+
 Now adding from Google Cloud computing. I used git fetch to get the latest status of the remote repository and
 then git pull to update the local to match. Now editing this and I'll commit and push back to remote.
 
