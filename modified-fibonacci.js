@@ -1,3 +1,5 @@
+//this was written for a hackerrank.com challenge but the DIY big number implementation proved too slow for a few test cases (2 2 20 in particular)
+//Code is fully functional, just not quite fast enough. Modified for use without stdin.
 /*
 process.stdin.resume();
 process.stdin.setEncoding("ascii");
@@ -7,7 +9,7 @@ process.stdin.on("data", function (chunk) {
 });
 process.stdin.on("end", function () {
     input = input.split(" "); */
-    input = [0,1,20];
+    input = [0,1,10];
     var n = Number(input[2]);
     var sequence = [[Number(input[0])], [Number(input[1])]];
     //each item is sequence is a array of digits, in reverse order
